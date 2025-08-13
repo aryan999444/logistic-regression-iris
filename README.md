@@ -75,8 +75,7 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## 📄 License
 
-[Specify License if present, otherwise state "No License specified"]
-
+No License specified
 
 ---
 
